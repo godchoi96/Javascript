@@ -27,33 +27,3 @@
 //     console.log(i);
 //     i++;
 // }
-
-// // 함수
-// // 파라미터를 두 개 받는 상황
-// function showMessage(name, text) {
-//     name = "*" + name + "*";
-//     console.log(name + ': ' + text);
-// }
-
-// let name = 'seongdae';
-// showMessage(name, '하이!');
-
-// 함수
-// 리턴 시키기
-
-function checkAge(age) {
-    if (age < 20) {
-        alert('부모님 허락은 받았습니까?');
-    } else {
-        return true;
-    }
-}
-
-let age = prompt('나이를 알려주세요' , 18);
-
-
-if (checkAge(age)) {
-    alert('인정');
-} else {
-    alert('불합');
-}
