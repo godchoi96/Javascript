@@ -1,0 +1,36 @@
+220221 자바스크립트 정리.
+
+1. 변수
+let, const, var > let은 변수, const는 상수, var은 과거에 쓰던 키워드
+
+2. 상호작용
+prompt, confirm, alert > prompt는 입력한 값을 취소를 누르면 null 값을 반환, confirm은 확인을 누르면 True 취소를 누르면 False를 반환, alert는 message의 모달창을 출력
+
+3. null과 undefined
+null은 해당하는 값이 존재하지 않고 undefined는 값이 존재하지 않는 것이 아닌 정의되지 않는 것이다.
+
+4. 반복문
+while, do...while, for가 있다.
+
+5. 조건문
+if, switch가 있다.
+
+6. 함수
+자주 사용되는 부분을 함수화하여 이를 뽑아서 쓰는 느낌으로 사용할 수 있다. 
+
+> 함수 선언문 
+function sum(a, b) {
+    let result = a + b;
+    return result;
+}
+
+> 함수 표현식
+let sum = function(a, b) {
+    let result = a + b;
+    return result;
+}
+
+> 화살표 함수
+let sum = (a, b) => {
+    return a + b;
+}
