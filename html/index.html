@@ -5,11 +5,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Practice</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.2.0/mocha.js"></script>
+    <script>
+        mocha.setup('bdd');
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/3.5.0/chai.js"></script>
+    <script>
+        let assert = chai.assert;
+    </script>
+    <title>Javascript | Practice</title>
 </head>
 
 <body>
-    <script src="../js/function.js"></script>
+    <script>
+        function pow(x, n) {
+            return 8;
+        }
+    </script>
+
+    <script src="../js/test.js"></script>
+
+    <div id="mocha"></div>
+
+    <script>
+        mocha.run();
+    </script>
 </body>
 
 </html>
