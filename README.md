@@ -13,4 +13,4 @@
 https://ko.javascript.info/
 
 ## ⭐ 일기처럼 적혀지는 블로그
-https://ch-oi-story.tistory.com/60?category=980149
+<a href="https://ch-oi-story.tistory.com/60?category=980149">블로그로 이동</a>
