@@ -10,7 +10,7 @@
 현재 자바스크립트는 다양한 분야에서 활용되며 사용되고 있습니다. 웹개발자로써의 성장을 원하는 저에게는 자바스크립트란 흥미를 유발하는 물건입니다. 어떨 때는 나타나게 하고 어떨 때는 사라지게 하는 등 여러가지 동작을 만들어주는데 이런 경험은 저에게 흥미를 자극했고 조금 더 딥하게 공부해보고 싶다는 생각이 들게 되었습니다.
 
 ## ⭐ 참고된 자바스크립트 문서
-https://ko.javascript.info/
+<a href="https://ko.javascript.info/" target="_blank">문서로 이동</a>
 
 ## ⭐ 일기처럼 적혀지는 블로그
-<a href="https://ch-oi-story.tistory.com/60?category=980149">블로그로 이동</a>
+<a href="https://ch-oi-story.tistory.com/60?category=980149" target="_blank">블로그로 이동</a>
